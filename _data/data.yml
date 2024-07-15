@@ -67,7 +67,7 @@ education:
         university: Willamette University
         time: 2016 - 2020
         details: |
-          I earned my Bachelor of Arts in Physics from Willamette University, where I gained a strong foundation in analytical thinking and problem-solving. With a minor in German, my education included rigorous coursework and research projects, which equipped me with a systematic approach to tackling complex challenges.
+          I earned my Bachelor of Arts in Physics from Willamette University, where I gained a strong foundation in analytical thinking and problem-solving. My education included rigorous coursework and research projects, which equipped me with a systematic approach to tackling complex challenges.
           
 experiences:
     title: Experiences
@@ -108,23 +108,23 @@ projects:
     assignments:
       - title: Climate Change and European Immigration
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A project examining the relationship between climate-related disasters and immigration. This project is mainly a case study focusing on immigration from India and Pakistan following catastrophic flooding in recent years."
 
       - title: Weather’s Effect on Traffic Incidents
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "An examination of general weather events and their effects on traffic in the Portland and Seattle metro areas. Analysis found that traffic accidents are more likely to occur when the weather is rainy."
 
       - title: Drivers of MLB Attendance - Is Winning Worth It?
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A machine learning project aiming to construct a model for Major League Baseball game attendance using a small group of factors related to rule changes in the 2023 season. We found that runs and on-base percentage (OBP) statistics were predictive of game attendance."
 
       - title: Predicting Stock Market Movements through Social Media Sentiment Analysis
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A capstone project that involved building webscrapers for X and Reddit using the Selenium and Python Reddit API Wrapper Python packages. The goal of this project is to determine if stock market movements can be predicted using sentiment scores from social media websites."
 
       - title: A Survival Analysis of Lithium-Ion Battery Packs
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A machine learning project that aims to predict the lifetime and degradation conditions of lithium-ion battery packs exposed to various voltages and temperatures."
 
 
 skills:
