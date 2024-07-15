@@ -62,25 +62,13 @@ education:
         university: Willamette University
         time: 2023 - 2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I completed my Master of Science in Data Science at Willamette University, where I developed advanced skills in data visualization, machine learning, and data engineering. My coursework included data ethics and culminated in a capstone project, resulting in a comprehensive understanding of how to transform data into actionable insights.
       - degree: BA in Physics
         university: Willamette University
         time: 2016 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+          I earned my Bachelor of Arts in Physics from Willamette University, where I gained a strong foundation in analytical thinking and problem-solving. With a minor in German, my education included rigorous coursework and research projects, which equipped me with a systematic approach to tackling complex challenges.
+          
 experiences:
     title: Experiences
     info:
