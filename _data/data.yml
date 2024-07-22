@@ -107,15 +107,15 @@ projects:
       Explore my diverse range of projects where I have applied my expertise in data analysis, visualization, and machine learning. From developing predictive models to creating interactive dashboards, each project showcases my ability to transform data into meaningful insights.
     assignments:
       - title: Climate Change and European Immigration
-        link: "#hook"
+        link: "projects/ClimateChange.pptx.pdf"
         tagline: "A project examining the relationship between climate-related disasters and immigration. This project is mainly a case study focusing on immigration from India and Pakistan following catastrophic flooding in recent years."
 
       - title: Weather’s Effect on Traffic Incidents
-        link: "#"
+        link: "projects/WeatherTrafficPresentation.pdf"
         tagline: "An examination of general weather events and their effects on traffic in the Portland and Seattle metro areas. Analysis found that traffic accidents are more likely to occur when the weather is rainy."
 
       - title: Drivers of MLB Attendance - Is Winning Worth It?
-        link: "#"
+        link: "projects/MLBml.pdf"
         tagline: "A machine learning project aiming to construct a model for Major League Baseball game attendance using a small group of factors related to rule changes in the 2023 season. We found that runs and on-base percentage (OBP) statistics were predictive of game attendance."
 
       - title: Predicting Stock Market Movements through Social Media Sentiment Analysis
