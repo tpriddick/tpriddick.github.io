@@ -58,12 +58,12 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MS in Data Science
+      - degree: M.S. in Data Science
         university: Willamette University
         time: 2023 - 2024
         details: |
           I completed my Master of Science in Data Science at Willamette University, where I developed advanced skills in data visualization, machine learning, and data engineering. My coursework included data ethics and culminated in a capstone project, resulting in a comprehensive understanding of how to transform data into actionable insights.
-      - degree: BA in Physics
+      - degree: B.A. in Physics
         university: Willamette University
         time: 2016 - 2020
         details: |
