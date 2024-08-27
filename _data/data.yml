@@ -119,7 +119,7 @@ projects:
         tagline: "A machine learning project aiming to construct a model for Major League Baseball game attendance using a small group of factors related to rule changes in the 2023 season. We found that runs and on-base percentage (OBP) statistics were predictive of game attendance."
 
       - title: Predicting Stock Market Movements through Social Media Sentiment Analysis
-        link: "#"
+        link: "https://legendary-engine-pl586zq.pages.github.io/capstone.html"
         tagline: "A capstone project that involved building webscrapers for X and Reddit using the Selenium and Python Reddit API Wrapper Python packages. The goal of this project is to determine if stock market movements can be predicted using sentiment scores from social media websites."
 
       - title: A Survival Analysis of Lithium-Ion Battery Packs in progress
