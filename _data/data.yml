@@ -61,7 +61,7 @@ projects:
       Explore my diverse range of projects where I have applied my expertise in data analysis, visualization, and machine learning. From developing predictive models to creating interactive dashboards, each project showcases my ability to transform data into meaningful insights. Please click on any of the titles to be taken to the related presentation.
     assignments:
       - title: Predicting Stock Market Movements through Social Media Sentiment Analysis
-        link: "https://legendary-engine-pl586zq.pages.github.io/capstone.html"
+        link: "https://tpriddick.github.io/capstone_writeup/capstone.html"
         tagline: "A capstone project that involved building webscrapers for X and Reddit using the Selenium and Python Reddit API Wrapper Python packages. The goal of this project is to determine if stock market movements can be predicted using sentiment scores from social media websites."
       
       - title: Drivers of MLB Attendance - Is Winning Worth It?
