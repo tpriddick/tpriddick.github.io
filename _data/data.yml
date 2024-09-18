@@ -55,52 +55,6 @@ career-profile:
     title: Career Profile
     summary: |
       As a dedicated data analyst with a Master of Science in Data Science from Willamette University, I specialize in transforming complex data into actionable insights. My experience as a Support Technician II at Open Dental Software and previous roles have honed my skills in data visualization, machine learning, statistical analysis, and database management. I am passionate about using data to drive informed decision-making and am committed to continuous learning and professional growth in the field of data science.
-education:
-    title: Education
-    info:
-      - degree: M.S. in Data Science
-        university: Willamette University
-        time: 2023 - 2024
-        details: |
-          I completed my Master of Science in Data Science at Willamette University, where I developed advanced skills in data visualization, machine learning, and data engineering. My coursework included data ethics and culminated in a capstone project, resulting in a comprehensive understanding of how to transform data into actionable insights.
-      - degree: B.A. in Physics
-        university: Willamette University
-        time: 2016 - 2020
-        details: |
-          I earned my Bachelor of Arts in Physics from Willamette University, where I gained a strong foundation in analytical thinking and problem-solving. My education included rigorous coursework and research projects, which equipped me with a systematic approach to tackling complex challenges.
-          
-experiences:
-    title: Experiences
-    info:
-      - role: Support Technician II
-        time: 2023 - Present
-        company: Open Dental Software, Salem, OR
-        details: |
-          At Open Dental Software, I serve as a Support Technician, where I leverage my data analysis skills to search internal databases for solutions, generate insightful reports, and resolve customer issues. My role involves discussing problems with customers, identifying effective solutions, and ensuring their satisfaction through thorough implementation.
-            - Searched internal databases for solutions and answers to customer questions.
-            - Identified queries to aid in the generation of reports.
-      - role: Lab Animal Technician II
-        time: 2022 - 2023
-        company: Yecuris, Tigard, OR
-        details: |
-          As a Lab Animal Technician II at Yecuris Corporation, I managed and organized mouse colonies using internal databases, led daily meetings to plan tasks, and identified process improvement opportunities in animal care. My work focused on enhancing operational efficiency and ensuring the highest standards of animal husbandry.
-            - Navigated internal databases to manage and organize mouse colonies.
-            - Participated in and led meetings to plan daily, weekly, and monthly tasks.
-      - role: Senior Lead Math and Physics Tutor
-        time: 2020 - 2023
-        company: Huntington Learning Center, Bellevue, WA
-        details: |
-          In my role as a Senior Lead Math and Physics Tutor at Huntington Learning Center, I provided one-on-one tutoring sessions in mathematics and physics, coached students through challenging material, and collaborated with education professionals to tailor sessions for exam preparation. This position allowed me to develop strong interpersonal and communication skills.
-            - Provided one-on-one tutoring sessions in mathematics nad physics.
-            - Liaised with other education professionals to tailor tutoring sessions around exam preparation and strategies.
-      - role: Undergraduate Research Assistant
-        time: 2018 - 2020
-        company: Willamette University, Salem, OR
-        details: |
-          As an Undergraduate Research Assistant at Willamette University, I conducted qualitative and quantitative analyses using Python, contributed to three major projects, and led a team of other undergraduate researchers in a year-long thesis capstone. I designed experimental apparatus, executed research techniques, and engaged actively in faculty-guided projects, honing my research and analytical skills.
-            - Executed qualitative and quantitative analyses on a wide range of data using Python.
-            - Designed experimental apparatu and executed research techniques and tests.
-
 projects:
     title: Projects
     intro: >
@@ -126,6 +80,58 @@ projects:
         link: "projects/18650BatteryLifePresentation.pdf"
         tagline: "A machine learning project that aims to predict the lifetime and degradation conditions of lithium-ion battery packs exposed to various voltages and temperatures."
 
+education:
+    title: Education
+    info:
+      - degree: M.S. in Data Science
+        university: Willamette University
+        time: 2023 - 2024
+        details: |
+          I completed my Master of Science in Data Science at Willamette University, where I developed advanced skills in data visualization, machine learning, and data engineering. My coursework included data ethics and culminated in a capstone project, resulting in a comprehensive understanding of how to transform data into actionable insights.
+      - degree: B.A. in Physics
+        university: Willamette University
+        time: 2016 - 2020
+        details: |
+          I earned my Bachelor of Arts in Physics from Willamette University, where I gained a strong foundation in analytical thinking and problem-solving. My education included rigorous coursework and research projects, which equipped me with a systematic approach to tackling complex challenges.
+          
+experiences:
+    title: Experiences
+    info:
+      - role: Support Technician II
+        time: 2023 - Present
+        company: Open Dental Software, Salem, OR
+        details: |
+          At Open Dental Software, I serve as a Support Technician, where I leverage my data analysis skills to search internal databases for solutions, generate insightful reports, and resolve customer issues. My role involves discussing problems with customers, identifying effective solutions, and ensuring their satisfaction through thorough implementation.
+          - Leveraged internal databases to efficiently source solutions for customer inquiries, ensuring prompt and accurate responses.
+          - Identified key queries to optimize the generation of detailed and actionable reports.
+          - Collaborated with customers to troubleshoot issues, propose tailored solutions, and ensure resolutions met or exceeded expectations.
+
+      - role: Lab Animal Technician II
+        time: 2022 - 2023
+        company: Yecuris, Tigard, OR
+        details: |
+          As a Lab Animal Technician II at Yecuris Corporation, I managed and organized mouse colonies using internal databases, led daily meetings to plan tasks, and identified process improvement opportunities in animal care. My work focused on enhancing operational efficiency and ensuring the highest standards of animal husbandry.
+            - Streamlined the management and organization of mouse colonies by navigating and writing into internal databases, improving operational efficiency.
+            - Actively contributed to and led planning meetings, coordinating daily, weekly, and monthly objectives with cross-functional teams.
+            - Partnered with management to identify and implement process improvements in animal care, food distribution, and water supply systems.
+
+      - role: Senior Lead Math and Physics Tutor
+        time: 2020 - 2023
+        company: Huntington Learning Center, Bellevue, WA
+        details: |
+          In my role as a Senior Lead Math and Physics Tutor at Huntington Learning Center, I provided one-on-one tutoring sessions in mathematics and physics, coached students through challenging material, and collaborated with education professionals to tailor sessions for exam preparation. This position allowed me to develop strong interpersonal and communication skills.
+            - Delivered personalized one-on-one tutoring in mathematics and physics, fostering academic growth through customized lesson plans.
+            - Guided students through complex concepts with a focus on positive reinforcement, boosting confidence and retention.
+            - Collaborated with education professionals to align tutoring sessions with exam preparation, ensuring students were equipped with effective strategies.
+
+      - role: Undergraduate Research Assistant
+        time: 2018 - 2020
+        company: Willamette University, Salem, OR
+        details: |
+          As an Undergraduate Research Assistant at Willamette University, I conducted qualitative and quantitative analyses using Python, contributed to three major projects, and led a team of other undergraduate researchers in a year-long thesis capstone. I designed experimental apparatus, executed research techniques, and engaged actively in faculty-guided projects, honing my research and analytical skills.
+            - Conducted comprehensive qualitative and quantitative analyses using Python, contributing to multiple research projects.
+            - Led a team of undergraduate researchers on a year-long thesis capstone, coordinating efforts and ensuring successful project completion.
+            - Worked closely with physics faculty to design experimental apparatus and execute advanced research techniques.
 
 skills:
     title: Skills &amp; Proficiency
