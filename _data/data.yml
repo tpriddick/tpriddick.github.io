@@ -77,7 +77,7 @@ projects:
         link: "projects/ClimateChange.pptx.pdf"
         tagline: "A project examining the relationship between climate-related disasters and immigration. This project is mainly a case study focusing on immigration from India and Pakistan following catastrophic flooding in recent years."
 
-      - title: A Survival Analysis of Lithium-Ion Battery Packs in progress
+      - title: A Survival Analysis of Lithium-Ion Battery Packs
         link: "projects/18650BatteryLifePresentation.pdf"
         tagline: "A machine learning project that aims to predict the lifetime and degradation conditions of lithium-ion battery packs exposed to various voltages and temperatures."
 
